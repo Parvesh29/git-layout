@@ -1,0 +1,58 @@
+body {
+    font-family: 'TimesNewRoman', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+  }
+  
+  body{
+    background-color: #cad2c5;
+  }
+  .nav-color{
+    background-color: #272b33;
+  }
+  .letter-space{
+    letter-spacing: 3px;
+  }
+
+
+  .box-size{
+    width: 90vw;
+    height: 75%;
+  }
+
+  .left-box-size{
+    width: 23vw;
+    height: 450px;
+    border-radius: 20px;
+    background-color: #272b33;
+  }
+
+
+  .right-box-size{
+    width: 77vw;
+    height: 450px;
+    border-radius: 20px;
+
+  }
+
+  .search{
+    width: 75px;
+    background-color: #272b33;
+  }
+  .b-radius{
+    border-radius: 20px;
+  }
+
+  .box{
+    width: 15vw;
+    height: 150px;
+    background-color: #272b33;
+    margin: 10px;
+  }
+
+  .last-box{
+    height: 80px;
+    background-color: #272b33;
+    margin: 10px;
+
+  }
